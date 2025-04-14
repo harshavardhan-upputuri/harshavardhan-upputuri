@@ -23,29 +23,30 @@ Hi, I'm Harsha – a **second-year Computer Science and Engineering student at C
 
 ### 🚀 Projects
 
-**🛡️ Hackathon Project: End-to-End Insurance Platform**
-Built a full-stack insurance platform that improved policy management efficiency by 40% and reduced policy purchase time by 25%. Led backend integration and API development in a 4-member team.
-MERN Stack (MongoDB, Express.js, React, Node.js, Postman)
-[GitHub Repository](#)
+**🛡️Hackathon Project: End-to-End Insurance Platform**
+
+- **Description:** Built a full-stack insurance platform that improved policy management efficiency by 40% and reduced policy purchase time by 25%. Led backend integration and API development in a 4-member team.  
+- **Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js, Postman)   
+- **Link:** [GitHub Repository](#)
 
 **🎵 Music Player**
-A Spotify-inspired music player with features like play, pause, and resume. Designed a modern, responsive UI for smooth user experience.
-React.js, Tailwind CSS
-[GitHub Repository](#)
+
+- **Description:** A Spotify-inspired music player with features like play, pause, and resume. Designed a modern, responsive UI for smooth user experience.  
+- **Technologies:** React.js, Tailwind CSS  
+- **Link:** [GitHub Repository](#)
 
 **🛍️ E-commerce Platform**
 
-Developed a fully responsive e-commerce site with dedicated pages for Home, Men, Women, Kids, Login, and Cart.
-React.js, Tailwind CSS
-[GitHub Repository](#)
+- **Description:** Developed a fully responsive e-commerce site with dedicated pages for Home, Men, Women, Kids, Login, and Cart.  
+- **Technologies:** React.js, Tailwind CSS  
+- **Link:** [GitHub Repository](#)  
 
 ---
 
 ### 📜 Certifications
 
-**Responsive Web Design** – freeCodeCamp
-
-**SQL Certificate** – HackerRank
+- **Responsive Web Design** – freeCodeCamp  
+- **SQL Certificate** – HackerRank
 
 
 ---
@@ -65,11 +66,9 @@ Chaithanya Bharathi Institute of Technology (CBIT) | *2023-2027*
 
 ### 🏆 Achievements
 
-🏆 Solved 500+ problems on LeetCode with a contest rating of 1600+, enhancing problem-solving skills.
-
-🔗 LeetCode Profile: leetcode.com/u/uharshavardhan
-
-🎯 Shortlisted for CMR National Level Hackathon.
+- 🏆 Solved 500+ problems on LeetCode with a contest rating of 1600+, enhancing problem-solving skills.  
+- 🔗 LeetCode Profile: leetcode.com/u/uharshavardhan  
+- 🎯 Shortlisted for CMR National Level Hackathon.
 
 
 
