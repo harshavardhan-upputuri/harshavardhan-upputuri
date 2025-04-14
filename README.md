@@ -1,16 +1,85 @@
-## Hi there 👋
+# Upputuri Harshavardhan
 
-<!--
-**harshavardhan-upputuri/harshavardhan-upputuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/upputuri-harshavardhan/) | [GitHub](https://github.com/harshavardhan-upputuri/) | Email: harshaupputuri123@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 👨‍💻 About Me  
+Hi, I'm Harsha – a **second-year Computer Science and Engineering student at CBIT, Hyderabad**, passionate about **Frontend Development**, **Data Structures and Algorithms**, and aspiring to become a **Java Developer**. I love building **responsive web applications** using **JavaScript, React.js, and Tailwind CSS**, and enjoy solving **algorithmic challenges** with a strong foundation in **Java**. I'm constantly exploring new technologies to grow as a developer and contribute to impactful projects.
+
+---
+### 💻 Skills & Expertise
+
+- **Programming Languages**: Java, JavaScript  
+- **Web Development**: HTML, CSS, JavaScript, React.js, Tailwind CSS , Redux Toolkit
+- **Java Backend Technologies**: JDBC, Servlet, Apache Tomcat, Maven  
+- **Version Control**: Git, GitHub  
+- **Database Systems**: MySQL, MongoDB  
+
+---
+
+
+### 🚀 Projects
+
+**🛡️ Hackathon Project: End-to-End Insurance Platform**
+Built a full-stack insurance platform that improved policy management efficiency by 40% and reduced policy purchase time by 25%. Led backend integration and API development in a 4-member team.
+MERN Stack (MongoDB, Express.js, React, Node.js, Postman)
+[GitHub Repository](#)
+
+**🎵 Music Player**
+A Spotify-inspired music player with features like play, pause, and resume. Designed a modern, responsive UI for smooth user experience.
+React.js, Tailwind CSS
+[GitHub Repository](#)
+
+**🛍️ E-commerce Platform**
+
+Developed a fully responsive e-commerce site with dedicated pages for Home, Men, Women, Kids, Login, and Cart.
+React.js, Tailwind CSS
+[GitHub Repository](#)
+
+---
+
+### 📜 Certifications
+
+**Responsive Web Design** – freeCodeCamp
+
+**SQL Certificate** – HackerRank
+
+
+---
+
+### 🎓 Education
+
+**B.Tech in Computer Science and Engineering**  
+Chaithanya Bharathi Institute of Technology (CBIT) | *2023-2027*
+**CGPA**: 9.27 
+
+**Relevant Courses**:  
+- Data Structures & Algorithms  
+- DBMS  
+- OOP in Java    
+
+---
+
+### 🏆 Achievements
+
+🏆 Solved 500+ problems on LeetCode with a contest rating of 1600+, enhancing problem-solving skills.
+
+🔗 LeetCode Profile: leetcode.com/u/uharshavardhan
+
+🎯 Shortlisted for CMR National Level Hackathon.
+
+
+
+---
+
+### 📬 Connect with Me
+
+I’m always excited about collaborating and learning new things. Let’s connect, share ideas, and create something meaningful together!
+
+---
+
+✨ Let’s build something great! ✨
+---
