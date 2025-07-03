@@ -7,19 +7,35 @@
 
 
 ### 👨‍💻 About Me  
-Hi, I'm Harsha – a **second-year Computer Science and Engineering student at CBIT, Hyderabad**, passionate about **Frontend Development**, **Data Structures and Algorithms**, and aspiring to become a **Java Developer**. I love building **responsive web applications** using **JavaScript, React.js, and Tailwind CSS**, and enjoy solving **algorithmic challenges** with a strong foundation in **Java**. I'm constantly exploring new technologies to grow as a developer and contribute to impactful projects.
+Hi, I'm Harsha – a **third-year Computer Science and Engineering student at CBIT, Hyderabad**, passionate about **Frontend and Backend Development**, **Data Structures and Algorithms**, and aspiring to become a **Java Developer**. I love building **responsive web applications** using **JavaScript, React.js, and Tailwind CSS**, and developing **robust backend services** with **Java, Spring Boot, Spring Security, JPA, JUnit, and Mockito**. I'm constantly exploring **new technologies** to grow as a developer and contribute to **impactful, real-world projects**.
+
 
 ---
-### 💻 Skills & Expertise
+### 💻 Skills 
 
-- **Programming Languages**: Java, JavaScript  
-- **Web Development**: HTML, CSS, JavaScript, React.js, Tailwind CSS , Redux Toolkit
-- **Java Backend Technologies**: JDBC, Servlet, Apache Tomcat, Maven  
-- **Version Control**: Git, GitHub  
-- **Database Systems**: MySQL, MongoDB  
+- **Programming Languages**: **Java**, **JavaScript**
+- **Web Development**: **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **Redux Toolkit**
+- **Java Backend Technologies**: **Spring Boot**, **Spring Security**, **JPA**, **JDBC**, **Servlet**, **Apache Tomcat**, **Maven**
+- **Testing & Mocking**: **JUnit**, **Mockito**
+- **Version Control**: **Git**, **GitHub**
+- **Database Systems**: **MySQL**, **MongoDB**
+
 
 ---
 
+### Experience
+
+#### 🧪 Research Intern — CBIT  
+**June 2025 – July 2025**
+
+- Learned **Python** and explored libraries like **NumPy**, **Pandas**, and **Matplotlib**
+- Studied **Machine Learning** algorithms and models  
+- Built a model to classify **Sonar vs Rock signals**  
+- Learned the fundamentals of **Deep Learning** and **Neural Networks**
+- Trained a **Convolutional Neural Network (CNN)** to classify **Cats vs Dogs**
+
+
+---
 
 ### 🚀 Projects
 
@@ -35,11 +51,7 @@ Hi, I'm Harsha – a **second-year Computer Science and Engineering student at C
 - **Technologies:** React.js, Tailwind CSS  
 - **Link:** [GitHub Repository](#)
 
-**🛍️ E-commerce Platform**
 
-- **Description:** Developed a fully responsive e-commerce site with dedicated pages for Home, Men, Women, Kids, Login, and Cart.  
-- **Technologies:** React.js, Tailwind CSS  
-- **Link:** [GitHub Repository](#)  
 
 ---
 
@@ -55,7 +67,7 @@ Hi, I'm Harsha – a **second-year Computer Science and Engineering student at C
 
 **B.Tech in Computer Science and Engineering**  
 Chaithanya Bharathi Institute of Technology (CBIT) | *2023-2027*
-**CGPA**: 9.27 
+**CGPA**: 9.18
 
 **Relevant Courses**:  
 - Data Structures & Algorithms  
@@ -66,7 +78,7 @@ Chaithanya Bharathi Institute of Technology (CBIT) | *2023-2027*
 
 ### 🏆 Achievements
 
-- 🏆 Solved 500+ problems on LeetCode with a contest rating of 1600+, enhancing problem-solving skills.  
+- 🏆 Solved 700+ problems on LeetCode with a contest rating of 1600+, enhancing problem-solving skills.  
 - 🔗 LeetCode Profile: leetcode.com/u/uharshavardhan  
 - 🎯 Shortlisted for CMR National Level Hackathon.
 
