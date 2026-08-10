@@ -6,50 +6,62 @@
 
 
 
-### 👨‍💻 About Me  
-Hi, I'm Harsha – a **third-year Computer Science and Engineering student at CBIT, Hyderabad**, passionate about **Frontend and Backend Development**, **Data Structures and Algorithms**, and aspiring to become a **Java Developer**. I love building **responsive web applications** using **JavaScript, React.js, and Tailwind CSS**, and developing **robust backend services** with **Java, Spring Boot, Spring Security, JPA, JUnit, and Mockito**. I'm constantly exploring **new technologies** to grow as a developer and contribute to **impactful, real-world projects**.
+### 👨‍💻 About Me
+
+Hi, I'm Harsha vardhan — a **fourth-year Computer Science student at CBIT, Hyderabad**, and a **Full Stack Developer** with internship experience at **Barclays**.
+
+I work mainly with **Java, Spring Boot, React.js, and Django**, and enjoy building real-world applications using **REST APIs, microservices, databases, and event-driven systems**. I also have a strong interest in **Data Structures & Algorithms and competitive programming**, with a **1700+ contest rating in leetcode**.
+
+I'm passionate about learning, building impactful solutions.
+
+---
+### 💻 Skills
+
+* **Programming Languages**: Java, JavaScript, SQL
+* **Frontend**: React.js, HTML, CSS, Tailwind CSS, Redux Toolkit
+* **Backend**: Spring Boot, Django, Spring Security, RESTful APIs, JWT
+* **Microservices & Messaging**: Microservices, Apache Kafka, API Gateway, Eureka
+* **Databases**: PostgreSQL, MySQL, MongoDB
+* **Testing**: JUnit, Mockito
+* **Tools**: Git, Docker, Postman, Swagger
 
 
 ---
-### 💻 Skills 
 
-- **Programming Languages**: **Java**, **JavaScript**
-- **Web Development**: **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **Redux Toolkit**
-- **Java Backend Technologies**: **Spring Boot**, **Spring Security**, **JPA**, **JDBC**, **Servlet**, **Apache Tomcat**, **Maven**
-- **Testing & Mocking**: **JUnit**, **Mockito**
-- **Version Control**: **Git**, **GitHub**
-- **Database Systems**: **MySQL**, **MongoDB**
+### 💼 Experience
 
+#### 💻 Technology Developer Intern — Barclays
 
----
+**June 2026 – July 2026**
 
-### Experience
-
-#### 🧪 Research Intern — CBIT  
-**June 2025 – July 2025**
-
-- Learned **Python** and explored libraries like **NumPy**, **Pandas**, and **Matplotlib**
-- Studied **Machine Learning** algorithms and models  
-- Built a model to classify **Sonar vs Rock signals**  
-- Learned the fundamentals of **Deep Learning** and **Neural Networks**
-- Trained a **Convolutional Neural Network (CNN)** to classify **Cats vs Dogs**
+* Worked on an internal **Estate Management tool** to improve visibility of Tech Debt, TLM, and cybersecurity vulnerabilities across department-owned applications.
+* Built **Django REST APIs** to process data from **10+ sources**, including datasets with **100K+ records**.
+* Designed data storage and processing workflows using **PostgreSQL** and automated data refreshes from a centralized repository.
+* Helped reduce manual data collection and reporting, making it easier for teams to track and remediate issues.
 
 
 ---
 
 ### 🚀 Projects
 
-**🛡️Hackathon Project: End-to-End Insurance Platform**
+**🏋️ Microservices-Based Fitness Tracker Platform**
 
-- **Description:** Built a full-stack insurance platform that improved policy management efficiency by 40% and reduced policy purchase time by 25%. Led backend integration and API development in a 4-member team.  
-- **Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js, Postman)   
-- **Link:** [GitHub Repository](#)
+* **Description:** Built a fitness platform using a microservices architecture to manage users, track activities, and generate personalized recommendations.
+* **Technologies:** Spring Boot, React.js, Apache Kafka, MongoDB, MySQL
+* Implemented **event-driven communication** using Apache Kafka.
+* Added **API Gateway, Eureka service discovery, and centralized configuration** for communication between services.
+* Secured APIs using **JWT authentication** and used MySQL and MongoDB for data persistence.
+* **Link:** [GitHub Repository](https://github.com/harshavardhan-upputuri/Fitness-App)
 
-**🎵 Music Player**
+**🛡️ Insurance Web Application**
 
-- **Description:** A Spotify-inspired music player with features like play, pause, and resume. Designed a modern, responsive UI for smooth user experience.  
-- **Technologies:** React.js, Tailwind CSS  
-- **Link:** [GitHub Repository](#)
+* **Description:** Built a full-stack insurance platform supporting multiple insurance categories, allowing users to explore policies, submit applications, and track application status.
+* **Technologies:** React.js, Spring Boot, MySQL, Spring Security, JWT
+* Implemented **role-based authentication and authorization** using Spring Security and JWT.
+* Added multiple login options including **Google OAuth, OTP, and password-based authentication**.
+* Developed **RESTful APIs** and an admin dashboard for policy management and application approval workflows.
+* **Link:** [Live ](https://insuranceplatform.vercel.app/)
+
 
 
 
@@ -65,23 +77,25 @@ Hi, I'm Harsha – a **third-year Computer Science and Engineering student at CB
 
 ### 🎓 Education
 
-**B.Tech in Computer Science and Engineering**  
-Chaithanya Bharathi Institute of Technology (CBIT) | *2023-2027*
-**CGPA**: 9.18
+**B.E. in Computer Science and Engineering**
+Chaithanya Bharathi Institute of Technology (CBIT), Hyderabad | *2023–2027*
+**CGPA:** 8.8 / 10
 
-**Relevant Courses**:  
-- Data Structures & Algorithms  
-- DBMS  
-- OOP in Java    
+**Relevant Coursework:**
+
+* Data Structures and Algorithms
+* DBMS
+* Object-Oriented Programming
+* Operating Systems
+* Computer Networks
+ 
 
 ---
 
 ### 🏆 Achievements
 
-- 🏆 Solved 700+ problems on LeetCode with a contest rating of 1600+, enhancing problem-solving skills.  
+- 🏆 Solved 800+ problems on LeetCode with a contest rating of 1700+, enhancing problem-solving skills.  
 - 🔗 LeetCode Profile: leetcode.com/u/uharshavardhan  
-- 🎯 Shortlisted for CMR National Level Hackathon.
-
 
 
 ---
@@ -89,6 +103,8 @@ Chaithanya Bharathi Institute of Technology (CBIT) | *2023-2027*
 ### 📬 Connect with Me
 
 I’m always excited about collaborating and learning new things. Let’s connect, share ideas, and create something meaningful together!
+
+Feel free to reach out through LinkedIn or GitHub.
 
 ---
 
