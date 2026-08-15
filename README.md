@@ -112,14 +112,14 @@ A scalable fitness platform designed using a **microservices architecture**.
 
 **Key Features**
 
-* 🔹 Multiple independent microservices
-* 🔹 Apache Kafka event-driven communication
-* 🔹 API Gateway for centralized routing
-* 🔹 Eureka service discovery
-* 🔹 Centralized configuration
-* 🔹 JWT authentication & authorization
-* 🔹 MySQL + MongoDB persistence
-* 🔹 Personalized fitness recommendations
+*  Multiple independent microservices
+*  Apache Kafka event-driven communication
+*  API Gateway for centralized routing
+*  Eureka service discovery
+*  Centralized configuration
+*  JWT authentication & authorization
+*  MySQL + MongoDB persistence
+*  Personalized fitness recommendations
 
 <a href="https://github.com/harshavardhan-upputuri/Fitness-App">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
