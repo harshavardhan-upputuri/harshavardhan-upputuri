@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshavardhan
+# 👋 Hi, I'm Upputuri Harshavardhan
 
 <div align="center">
 
