@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Harshavardhan**, a Computer Science student at **CBIT, Hyderabad**, and a **Full Stack Developer** with internship experience at **Barclays**.
+I'm **Upputuri Harshavardhan**, a Computer Science student at **CBIT, Hyderabad**, and a **Full Stack Developer** with internship experience at **Barclays**.
 
 I primarily work with **Java, Spring Boot, React.js, and Django**, with a strong interest in:
 
