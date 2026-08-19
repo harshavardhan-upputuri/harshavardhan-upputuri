@@ -242,11 +242,11 @@ Chaithanya Bharathi Institute of Technology (CBIT), Hyderabad
 
 ## 🏆 Achievements
 
-🧩 800+ LeetCode problems solved
-🏆 1700+ LeetCode contest rating
-⚔️ 900 Codeforces rating
-💻 Strong focus on DSA & Competitive Programming
-🏦 Technology Developer Intern at Barclays
+* 800+ LeetCode problems solved
+* 1700+ LeetCode contest rating
+* 900 Codeforces rating
+* Strong focus on DSA & Competitive Programming
+* Technology Developer Intern at Barclays
 
 ---
 
